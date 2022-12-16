@@ -293,3 +293,58 @@ main a .scrolltop i {
 #contact {
   background-color: #fff !important;
 }
+
+/* Footer */
+footer {
+  min-height: 0 !important;
+  background-color: #025c52;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+footer img {
+  cursor: pointer;
+  width: 50px;
+}
+footer p.address {
+  width: 80%;
+}
+footer .logo img {
+  width: 100px;
+}
+footer ul.vertical {
+  list-style: none;
+  padding-left: 0;
+}
+footer h6 {
+  font-weight: 700;
+}
+footer ul.vertical li {
+  margin-top: 30px;
+}
+footer ul.vertical li a {
+  color: #fff;
+  padding: 0;
+}
+footer ul.horizontal {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+footer ul.horizontal li {
+  margin-top: 20px;
+}
+footer ul.vertical li a {
+  color: #fff;
+}
+footer ul.vertical li a:hover {
+  color: rgb(209, 207, 207);
+}
+footer ul.horizontal li i {
+  font-size: 25px;
+  margin-right: 10px;
+  color: #fff;
+}
+footer ul.horizontal li i:hover {
+  color: rgb(209, 207, 207);
+}
