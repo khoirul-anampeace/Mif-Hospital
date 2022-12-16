@@ -288,3 +288,8 @@ main a .scrolltop i {
 #testimony .carousel .carousel-inner .carausel-content p {
   text-align: center;
 }
+
+/* Contact */
+#contact {
+  background-color: #fff !important;
+}
