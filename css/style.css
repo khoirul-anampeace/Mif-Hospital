@@ -215,3 +215,17 @@ main a .scrolltop i {
 #about .row ul li a p {
   margin: 0 10px;
 }
+/* Gallery */
+#gallery {
+  background-color: #fff !important;
+  padding-top: 150px;
+}
+#gallery .container .title {
+  width: 10%;
+  width: 90%;
+}
+#gallery .image-layout img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
