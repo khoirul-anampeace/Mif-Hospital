@@ -229,3 +229,33 @@ main a .scrolltop i {
   height: auto;
   border-radius: 5px;
 }
+/* Article */
+#article {
+  background-color: #fff !important;
+}
+#article .container .row .content-article {
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  min-height: 440px;
+  box-shadow: rgba(17, 12, 46, 0.046) 0px 48px 100px 0px;
+}
+#article .container .row .content-article:hover {
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+#article .container .row .content-article .title {
+  padding: 20px 20px 0 20px;
+}
+#article .container .row .content-article .title h5 {
+  text-align: center;
+}
+#article .container .row .content-article .title p {
+  margin: 0;
+}
+#article .container .row .content-article .title button {
+  width: 100%;
+}
+#article .container .row img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
