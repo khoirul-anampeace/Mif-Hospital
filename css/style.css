@@ -259,3 +259,32 @@ main a .scrolltop i {
   width: 100%;
   border-radius: 10px 10px 0 0;
 }
+/* Testimony */
+#testimony {
+  background-color: #fff !important;
+}
+#testimony .carousel .carousel-inner {
+  box-shadow: rgba(17, 12, 46, 0.046) 0px 48px 100px 0px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin-top: 20px;
+  /* padding: 20px 50px; */
+}
+#testimony .carousel .carousel-inner .carausel-content {
+  height: 350px;
+  padding: 80px 100px 0 100px;
+  /* background-color: #f02d2f; */
+  text-align: center;
+}
+#testimony .carousel .carousel-inner .carausel-content img {
+  width: 90px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+#testimony .carousel .carousel-inner .carausel-content i {
+  color: gold;
+}
+#testimony .carousel .carousel-inner .carausel-content p {
+  text-align: center;
+}
